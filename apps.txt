@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 gaming added
+=======
+game developed in game2
+>>>>>>> game2
